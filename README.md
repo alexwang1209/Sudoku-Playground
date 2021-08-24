@@ -5,5 +5,7 @@ Originally I was just going to write a simple Sudoku solver algorithm for leetco
 ## Features
 
 Sudoku Puzzle Generator
+
 Sudoku Solver
+
 ...
